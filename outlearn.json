@@ -6,7 +6,7 @@
       "name" : "my-outlearn-path",
       "title" : "My First Outlearn Path",
       "description" : "Fastest Way to Publish a Path",
-      "privacy" : "public",
+      "privacy" : "private",
       "pages" : [
         {"page" : "./pages/welcome.md"},
         {"module" : "my-outlearn-module"},
